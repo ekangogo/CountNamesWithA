@@ -76,8 +76,8 @@
     <Sequence.Variables>
       <Variable x:TypeArguments="s:String[]" Name="namesArray" />
       <Variable x:TypeArguments="x:String" Name="listOfNames" />
-      <Variable x:TypeArguments="x:Int32" Name="Y" />
       <Variable x:TypeArguments="x:Boolean" Name="wordCheck" />
+      <Variable x:TypeArguments="x:Int32" Name="Y" />
     </Sequence.Variables>
     <sap:WorkflowViewStateService.ViewState>
       <scg:Dictionary x:TypeArguments="x:String, x:Object">
